@@ -1,6 +1,6 @@
 import { Menu, X, GraduationCap } from 'lucide-react';
 import { useState } from 'react';
-
+import logo from '../aasets/paul-matric-logo.jpeg';
 interface HeaderProps {
   currentPage: string;
   onNavigate: (page: string) => void;
@@ -22,9 +22,10 @@ export default function Header({ currentPage, onNavigate }: HeaderProps) {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex justify-between items-center py-4">
           <div className="flex items-center space-x-3 cursor-pointer" onClick={() => onNavigate('home')}>
-            <div className="bg-blue-600 p-2 rounded-lg">
-              <GraduationCap className="h-8 w-8 text-white" />
-            </div>
+            {/* <div className="bg-blue-600 p-2 rounded-lg"> */}
+              {/* <GraduationCap className="h-8 w-8 text-white" /> */}
+              <img src={logo} alt="School Logo" className="h-12 w-12 object-contain" />
+            {/* </div> */}
             <div>
               <h1 className="text-xl font-bold text-gray-900">Paul Matriculation School</h1>
               <p className="text-xs text-gray-600">Awake, Arise & Achieve</p>

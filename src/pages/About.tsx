@@ -92,7 +92,7 @@ export default function About() {
                 provides structured learning from Pre-School to High School.
               </p>
               <div className="mt-6 pt-6 border-t">
-                <p className="font-semibold text-gray-900">J. Vinotha</p>
+                <p className="font-semibold text-gray-900">Mrs. C. Rajeswari</p>
                 <p className="text-sm text-gray-600">Principal</p>
               </div>
             </div>
