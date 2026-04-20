@@ -32,7 +32,7 @@ export default function Contact() {
     {
       icon: MapPin,
       title: 'Address',
-      details: ['111K/27, Polepettai, Thoothukudi-2', 'Thoothukudi-2, Tamil Nadu, India'],
+      details: ['111K/27, Polepettai, Thoothukudi-2', 'Tamil Nadu, India'],
       color: 'bg-blue-600'
     },
     {
