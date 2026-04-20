@@ -32,19 +32,19 @@ export default function Contact() {
     {
       icon: MapPin,
       title: 'Address',
-      details: ['Polepettai', 'Thoothukudi', 'Tamil Nadu, India'],
+      details: ['111K/27, Polepettai, Thoothukudi-2', 'Thoothukudi-2, Tamil Nadu, India'],
       color: 'bg-blue-600'
     },
     {
       icon: Phone,
       title: 'Phone',
-      details: ['[Phone Number]', 'Call us for admission enquiries'],
+      details: ['7708655960 | 04612335377', 'Call us for admission enquiries'],
       color: 'bg-green-600'
     },
     {
       icon: Mail,
       title: 'Email',
-      details: ['[Email ID]', 'Send us your queries'],
+      details: ['paulmatricschool@gmail.com', 'Send us your queries'],
       color: 'bg-red-600'
     },
     {
