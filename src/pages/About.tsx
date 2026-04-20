@@ -3,11 +3,11 @@ import { Users, Target, Lightbulb, Heart, BookOpen, TrendingUp } from 'lucide-re
 export default function About() {
   const leadership = [
     { role: 'Correspondent', name: 'Dr. S. Arunmozhi Selvi Ravindran' },
-    { role: 'Director', name: 'Dr. Samuel Jebaselvan' },
+    { role: 'Director', name: 'Dr. E. Samuel Jebaselvan' },
     { role: 'Trustee', name: 'Mrs. Sridevi Radhakrishnan' },
     { role: 'Trustee', name: 'Mr. S. Arun Sundar' },
     { role: 'Legal Advisor', name: 'Mr. M. Sundarapandi' },
-    { role: 'Principal', name: 'J. Vinotha' },
+    { role: 'Principal', name: 'Mrs. C. Rajeswari' },
   ];
 
   const lifeSkills = [

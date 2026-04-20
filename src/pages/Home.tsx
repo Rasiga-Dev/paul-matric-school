@@ -4,7 +4,7 @@ export default function Home() {
   const highlights = [
     { icon: Award, label: 'Established', value: '1983' },
     { icon: Users, label: 'Students', value: '600+' },
-    { icon: BookOpen, label: 'Teaching Staff', value: '25' },
+    { icon: BookOpen, label: 'Teaching Staff', value: '30' },
     { icon: Lightbulb, label: 'Non-Teaching Staff', value: '5' },
   ];
 

@@ -40,8 +40,7 @@ export default function Facilities() {
     { class: 'Pre-KG', timing: '9:00 AM – 12:00 PM' },
     { class: 'LKG, UKG, I & II', timing: '8:45 AM – 4:00 PM' },
     { class: 'III – V', timing: '8:45 AM – 4:15 PM' },
-    { class: 'VI – IX', timing: '8:45 AM – 4:30 PM' },
-    { class: 'X', timing: '8:00 AM – 6:00 PM' },
+    { class: 'VI – X', timing: '8:45 AM – 4:30 PM' },
   ];
 
   const examSystems = [

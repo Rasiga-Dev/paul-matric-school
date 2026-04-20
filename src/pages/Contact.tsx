@@ -50,7 +50,7 @@ export default function Contact() {
     {
       icon: Clock,
       title: 'Office Hours',
-      details: ['Monday - Friday', '8:00 AM - 5:00 PM', 'Saturday: 8:00 AM - 1:00 PM'],
+      details: ['Monday - Friday', '8:45 AM - 4:30 PM', 'Saturday: 8:45 AM - 3:00 PM'],
       color: 'bg-purple-600'
     },
   ];

@@ -28,15 +28,15 @@ export default function Footer() {
             <div className="space-y-3 text-sm">
               <div className="flex items-start space-x-2">
                 <MapPin className="h-5 w-5 text-blue-400 mt-0.5 flex-shrink-0" />
-                <span>Polepettai, Thoothukudi, Tamil Nadu</span>
+                <span>111K/27, Polepettai, Thoothukudi-2</span>
               </div>
               <div className="flex items-center space-x-2">
                 <Phone className="h-5 w-5 text-blue-400 flex-shrink-0" />
-                <span>Contact: [Phone Number]</span>
+                <span>7708655960 | 04612335377</span>
               </div>
               <div className="flex items-center space-x-2">
                 <Mail className="h-5 w-5 text-blue-400 flex-shrink-0" />
-                <span>[Email ID]</span>
+                <span>paulmatricschool@gmail.com</span>
               </div>
             </div>
           </div>
